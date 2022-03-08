@@ -1,0 +1,5 @@
+ff8a7073df6b46778f4422aadb0a6b29|C:\Users\User\Unity Project\ARFoundation\Assets\Image\bamboo.jpg|0.01
+1dd9cb1ffa304c0d926c233d9d73faa8|C:\Users\User\Unity Project\ARFoundation\Assets\Image\fern.jpg|0.01
+01c09ae46f8242009c36d50b7de0a65a|C:\Users\User\Unity Project\ARFoundation\Assets\Image\monstera.jpg|0.01
+858c1cbb38f94aca8943dfe57d6ef44b|C:\Users\User\Unity Project\ARFoundation\Assets\Image\palm.jpg|0.01
+ceca89e324524aaaa4dbf39e94ce96b9|C:\Users\User\Unity Project\ARFoundation\Assets\Image\prayer.jpg|0.01

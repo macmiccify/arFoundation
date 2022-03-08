@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5616268470961234614
+  m_GuidHigh: 16782108415848068764
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5077772759825281139
+      m_GuidHigh: 2984491116631573647
+    m_SerializedTextureGuid:
+      m_GuidLow: 10737875579531923409
+      m_GuidHigh: 4332067345510042923
+    m_Size: {x: 0.01, y: 0.009589589}
+    m_SpecifySize: 1
+    m_Name: bamboo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5480311406145948447
+      m_GuidHigh: 12176171661722348690
+    m_SerializedTextureGuid:
+      m_GuidLow: 16844866178179851441
+      m_GuidHigh: 1923251422328000329
+    m_Size: {x: 0.01, y: 0.01}
+    m_SpecifySize: 1
+    m_Name: fern
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4755923810669075172
+      m_GuidHigh: 6532155137221539484
+    m_SerializedTextureGuid:
+      m_GuidLow: 14286653095817655617
+      m_GuidHigh: 274498134827572138
+    m_Size: {x: 0.01, y: 0.01}
+    m_SpecifySize: 1
+    m_Name: monstera
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5389182548440784059
+      m_GuidHigh: 5473120934168576905
+    m_SerializedTextureGuid:
+      m_GuidLow: 14615409133868846277
+      m_GuidHigh: 13575817364115854331
+    m_Size: {x: 0.01, y: 0.01}
+    m_SpecifySize: 1
+    m_Name: palm
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5380152642922777059
+      m_GuidHigh: 13373103281240529828
+    m_SerializedTextureGuid:
+      m_GuidLow: 7612223870794768293
+      m_GuidHigh: 17353935178271947081
+    m_Size: {x: 0.01, y: 0.01}
+    m_SpecifySize: 1
+    m_Name: prayer
+    m_Texture: {fileID: 0}
